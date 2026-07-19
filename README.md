@@ -1,4 +1,4 @@
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/37386378-b488-4edf-af3d-6aa32d070e71" /># My-Website-Portfolio
+# My-Website-Portfolio
 A collection of websites, eCommerce stores, landing pages, and web applications I've worked on.
 <table>
 <tr>
