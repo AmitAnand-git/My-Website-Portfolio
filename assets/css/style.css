@@ -31,10 +31,8 @@
     flex-direction: column;
     gap: 18px;
     flex: 1;
-
-    background: #ffffff !important;
+    background: transparent !important;
     color: #111111 !important;
-
     border: 2px solid #111111;
     border-top: none;
     border-radius: 0 0 20px 20px;
