@@ -17,18 +17,17 @@ grid-template-columns:1fr;
 }
 }
 .card{
-background:#171717;
-border-radius:24px;
+/* background:#171717; */
 overflow:hidden;
 box-shadow:0 12px 40px rgba(0,0,0,.25);
 transition:.35s;
 display:flex;
 flex-direction:column;
 }
-.card:hover{
+/* .card:hover{
 transform:translateY(-10px);
 box-shadow:0 20px 60px rgba(0,0,0,.35);
-}
+} */
 .card img{
 width:100%;
 aspect-ratio:16/10;
@@ -36,11 +35,13 @@ object-fit:cover;
 display:block;
 }
 .content{
-padding:24px;
+padding:10px 24px;
 display:flex;
 flex-direction:column;
 gap:14px;
 flex:1;
+border: 1px solid  rgba(0,0,0,1);
+border-radius: 15px;
 }
 .content a{
 margin-top:auto;
