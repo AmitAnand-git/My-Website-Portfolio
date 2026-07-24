@@ -23,6 +23,7 @@
 }
 
 .content {
+    font-family: 'Montserrat', sans-serif;
     padding: 32px;
     display: flex;
     flex-direction: column;
@@ -32,7 +33,6 @@
     color: #111111 !important;
     border: 2px solid #111111;
     border-radius: 20px;
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.20);
 }
 
 .content h2 {
