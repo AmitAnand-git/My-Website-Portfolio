@@ -20,7 +20,6 @@
     object-fit: cover;
     display: block;
     border-radius: 20px 20px 0 0;
-    margin-bottom:20px;
 }
 
 .content {
@@ -32,8 +31,7 @@
     background: transparent !important;
     color: #111111 !important;
     border: 2px solid #111111;
-    border-top: none;
-    border-radius: 0 0 20px 20px;
+    border-radius: 20px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.20);
 }
 
