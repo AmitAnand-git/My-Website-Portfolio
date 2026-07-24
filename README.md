@@ -1,9 +1,11 @@
-# My-Website-Portfolio
+# My Website Portfolio
 
-<h2 style="color:red">Note : this portfolio is still under development</h2>
-A collection of websites, eCommerce stores, landing pages, and web applications I've worked on.
+![Status](https://img.shields.io/badge/Portfolio-Under%20Development-red?style=for-the-badge)
 
-<a href="https://amitanand-git.github.io/My-Website-Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Preview-0A66C2?style=for-the-badge" alt="Check My Portfolio">
-</a>
+A curated collection of websites, eCommerce stores, landing pages, and web applications I've built and contributed to.
 
+<p>
+  <a href="https://amitanand-git.github.io/My-Website-Portfolio" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Preview-0A66C2?style=for-the-badge&logo=github" alt="Check My Portfolio">
+  </a>
+</p>
